@@ -1,4 +1,5 @@
 # OnFairRP: Online Fair Ride-Sharing Pricing
+### Title: Fair Online Pricing for Shared Rides
 <p align="center">
     <img src="readme_fig/fig1-cropped.png" border="0" width=50%/>
 </p>
