@@ -41,7 +41,7 @@ To deal with this issue, we consider the notion of **individual fairness**. Spec
     ```
 
 ## Data Source
-* Real-world data traces are obtained from [DiDi Chuxing GAIA Initiative](https://gaia.didichuxing.com).
+* The real-world data traces are obtained from [DiDi Chuxing GAIA Initiative](https://gaia.didichuxing.com).
 
 ## Usage (run with arguments specified)
 * To price (i.e., decide discounts) for requests using OnFairRP algorithm:
